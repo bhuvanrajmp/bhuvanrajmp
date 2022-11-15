@@ -1,3 +1,12 @@
+# About project
+In this paper “Virtual Assistant Using Python” we discussed the design and implementation of Digital Assistance. The project is built using open source software
+modules with PyCharm community backing which can accommodate any updates shortly. The modular nature of this project makes it more flexible and easy to add additional
+features without disturbing current system functionalities.
+It not only works on human commands but also give responses to the user based on the query being asked or the words spoken by the user such as opening tasks and
+operations. It is greeting the user the way the user feels more comfortable and feels free to interact with the voice assistant. The application should also eliminate
+any kind of unnecessary manual work required in the user life of performing every task. The entire system works on the verbal input rather than the next one.
+
+
 # Requirements
 
   # 
